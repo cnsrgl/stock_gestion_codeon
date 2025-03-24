@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Stock Editor (Enhanced)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-04 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: woocommerce-stock-editor-enhanced"
+
+#: woocommerce-stock-manager.php:908
+msgid "%d varyasyondan %d'si stokta"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Advanced WooCommerce stock management plugin with instant updates, dark mode,"
+" and customizable stock tracking options."
+msgstr ""
+
+#: woocommerce-stock-manager.php:107
+msgid "An error occurred while fetching products."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1270
+msgid "An error occurred while updating the product: "
+msgstr ""
+
+#: woocommerce-stock-manager.php:110
+msgid "An error occurred."
+msgstr ""
+
+#: woocommerce-stock-manager.php:106
+msgid "An error occurred: "
+msgstr ""
+
+#: woocommerce-stock-manager.php:787 woocommerce-stock-manager.php:824
+msgid "Category"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeon"
+msgstr ""
+
+#: woocommerce-stock-manager.php:545
+msgid "Default Stock Status"
+msgstr ""
+
+#: woocommerce-stock-manager.php:736
+msgid "Display"
+msgstr ""
+
+#: woocommerce-stock-manager.php:492
+msgid "Display Settings"
+msgstr ""
+
+#: woocommerce-stock-manager.php:538
+msgid "Email address to receive stock notifications."
+msgstr ""
+
+#: woocommerce-stock-manager.php:565
+msgid "Enable Dark Mode by Default"
+msgstr ""
+
+#: woocommerce-stock-manager.php:573
+msgid "Enable dark mode by default when accessing the stock editor."
+msgstr ""
+
+#: woocommerce-stock-manager.php:112
+msgid "Error loading variations."
+msgstr ""
+
+#: woocommerce-stock-manager.php:105
+msgid "Error updating product."
+msgstr ""
+
+#: woocommerce-stock-manager.php:735
+msgid "General"
+msgstr ""
+
+#: woocommerce-stock-manager.php:609
+msgid "High Stock Indicator Color"
+msgstr ""
+
+#: woocommerce-stock-manager.php:555 woocommerce-stock-manager.php:1003
+#: woocommerce-stock-manager.php:1199
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce-stock-manager.php:1230
+msgid "Invalid data."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1263
+msgid "Invalid field."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1128
+msgid "Invalid product ID."
+msgstr ""
+
+#: woocommerce-stock-manager.php:111
+msgid "Loading variations..."
+msgstr ""
+
+#: woocommerce-stock-manager.php:109
+msgid "Loading..."
+msgstr ""
+
+#: woocommerce-stock-manager.php:579
+msgid "Low Stock Indicator Color"
+msgstr ""
+
+#: woocommerce-stock-manager.php:500
+msgid "Low Stock Threshold"
+msgstr ""
+
+#: woocommerce-stock-manager.php:484
+msgid "Main Settings"
+msgstr ""
+
+#: woocommerce-stock-manager.php:829 woocommerce-stock-manager.php:1159
+msgid "Manage Stock"
+msgstr ""
+
+#: woocommerce-stock-manager.php:809 woocommerce-stock-manager.php:810
+msgid "Max Price"
+msgstr ""
+
+#: woocommerce-stock-manager.php:594
+msgid "Medium Stock Indicator Color"
+msgstr ""
+
+#: woocommerce-stock-manager.php:515
+msgid "Medium Stock Threshold"
+msgstr ""
+
+#: woocommerce-stock-manager.php:805 woocommerce-stock-manager.php:806
+msgid "Min Price"
+msgstr ""
+
+#: woocommerce-stock-manager.php:108 woocommerce-stock-manager.php:1101
+msgid "No products found."
+msgstr ""
+
+#: woocommerce-stock-manager.php:530
+msgid "Notification Email"
+msgstr ""
+
+#: woocommerce-stock-manager.php:556 woocommerce-stock-manager.php:1004
+#: woocommerce-stock-manager.php:1200
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce-stock-manager.php:825 woocommerce-stock-manager.php:1155
+msgid "Price"
+msgstr ""
+
+#: woocommerce-stock-manager.php:822
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce-stock-manager.php:1134
+msgid "Product not found or not a variable product."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1235
+msgid "Product not found."
+msgstr ""
+
+#: woocommerce-stock-manager.php:796
+msgid "Product Type"
+msgstr ""
+
+#: woocommerce-stock-manager.php:104
+msgid "Product updated successfully."
+msgstr ""
+
+#: woocommerce-stock-manager.php:826 woocommerce-stock-manager.php:1156
+msgid "Sale Price"
+msgstr ""
+
+#: woocommerce-stock-manager.php:813 woocommerce-stock-manager.php:814
+msgid "Search Products..."
+msgstr ""
+
+#: woocommerce-stock-manager.php:789
+msgid "Select Category"
+msgstr ""
+
+#: woocommerce-stock-manager.php:798
+msgid "Select Product Type"
+msgstr ""
+
+#: woocommerce-stock-manager.php:617
+msgid "Select the color for the high stock indicator."
+msgstr ""
+
+#: woocommerce-stock-manager.php:587
+msgid "Select the color for the low stock indicator."
+msgstr ""
+
+#: woocommerce-stock-manager.php:602
+msgid "Select the color for the medium stock indicator."
+msgstr ""
+
+#: woocommerce-stock-manager.php:553
+msgid "Set the default stock status for new products."
+msgstr ""
+
+#: woocommerce-stock-manager.php:471
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-stock-manager.php:980
+msgid "Simple Product"
+msgstr ""
+
+#: woocommerce-stock-manager.php:470 woocommerce-stock-manager.php:733
+msgid "Stock Editor Settings"
+msgstr ""
+
+#: woocommerce-stock-manager.php:459 woocommerce-stock-manager.php:460
+msgid "Stock Management"
+msgstr ""
+
+#: woocommerce-stock-manager.php:827 woocommerce-stock-manager.php:1157
+msgid "Stock Quantity"
+msgstr ""
+
+#: woocommerce-stock-manager.php:523
+msgid ""
+"Stock quantity above low threshold and below which the indicator turns "
+"orange."
+msgstr ""
+
+#: woocommerce-stock-manager.php:508
+msgid "Stock quantity below which the indicator turns red."
+msgstr ""
+
+#: woocommerce-stock-manager.php:828 woocommerce-stock-manager.php:1158
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce-stock-manager.php:823
+msgid "Type"
+msgstr ""
+
+#: woocommerce-stock-manager.php:928
+msgid "Variable Product"
+msgstr ""
+
+#: woocommerce-stock-manager.php:1240
+msgid ""
+"Variable products cannot be updated directly. Please update variations "
+"individually."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1154
+msgid "Variation Name"
+msgstr ""
+
+#: woocommerce-stock-manager.php:773
+msgid "WooCommerce Stock Editor"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Stock Editor (Enhanced)"
+msgstr ""
+
+#: woocommerce-stock-manager.php:1122 woocommerce-stock-manager.php:1222
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: woocommerce-stock-manager.php:729 woocommerce-stock-manager.php:755
+#: woocommerce-stock-manager.php:1031
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""

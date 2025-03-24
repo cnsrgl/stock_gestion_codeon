@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Stock Editor (Enhanced)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-04 13:37+0000\n"
+"PO-Revision-Date: 2024-12-04 13:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: woocommerce-stock-editor-enhanced"
+
+#: woocommerce-stock-manager.php:908
+msgid "%d varyasyondan %d'si stokta"
+msgstr "%d de %d variations en stock"
+
+#. Description of the plugin
+msgid ""
+"Advanced WooCommerce stock management plugin with instant updates, dark mode,"
+" and customizable stock tracking options."
+msgstr ""
+"Plugin avancé de gestion de stock WooCommerce avec mises à jour instantanées,"
+" mode sombre et options de suivi de stock personnalisables."
+
+#: woocommerce-stock-manager.php:107
+msgid "An error occurred while fetching products."
+msgstr "Une erreur s'est produite lors de la recherche des produits."
+
+#: woocommerce-stock-manager.php:1270
+msgid "An error occurred while updating the product: "
+msgstr "Une erreur s'est produite lors de la mise à jour du produit : "
+
+#: woocommerce-stock-manager.php:110
+msgid "An error occurred."
+msgstr "Une erreur s'est produite."
+
+#: woocommerce-stock-manager.php:106
+msgid "An error occurred: "
+msgstr "Une erreur s'est produite : "
+
+#: woocommerce-stock-manager.php:787 woocommerce-stock-manager.php:824
+msgid "Category"
+msgstr "Catégorie"
+
+#. Author of the plugin
+msgid "Codeon"
+msgstr ""
+
+#: woocommerce-stock-manager.php:545
+msgid "Default Stock Status"
+msgstr "État du stock par défaut"
+
+#: woocommerce-stock-manager.php:736
+msgid "Display"
+msgstr "Affichage"
+
+#: woocommerce-stock-manager.php:492
+msgid "Display Settings"
+msgstr "Paramètres d'affichage"
+
+#: woocommerce-stock-manager.php:538
+msgid "Email address to receive stock notifications."
+msgstr "Adresse électronique pour recevoir les notifications de stock."
+
+#: woocommerce-stock-manager.php:565
+msgid "Enable Dark Mode by Default"
+msgstr "Activer le mode sombre par défaut"
+
+#: woocommerce-stock-manager.php:573
+msgid "Enable dark mode by default when accessing the stock editor."
+msgstr ""
+"Activer le mode sombre par défaut lors de l'accès à l'éditeur de stock."
+
+#: woocommerce-stock-manager.php:112
+msgid "Error loading variations."
+msgstr "Erreur de chargement des variations."
+
+#: woocommerce-stock-manager.php:105
+msgid "Error updating product."
+msgstr "Erreur de mise à jour du produit."
+
+#: woocommerce-stock-manager.php:735
+msgid "General"
+msgstr "Général"
+
+#: woocommerce-stock-manager.php:609
+msgid "High Stock Indicator Color"
+msgstr "Couleur de l'indicateur de stock élevé"
+
+#: woocommerce-stock-manager.php:555 woocommerce-stock-manager.php:1003
+#: woocommerce-stock-manager.php:1199
+msgid "In Stock"
+msgstr "En stock"
+
+#: woocommerce-stock-manager.php:1230
+msgid "Invalid data."
+msgstr "Données non valides."
+
+#: woocommerce-stock-manager.php:1263
+msgid "Invalid field."
+msgstr ""
+
+#: woocommerce-stock-manager.php:1128
+msgid "Invalid product ID."
+msgstr "ID de produit non valide."
+
+#: woocommerce-stock-manager.php:111
+msgid "Loading variations..."
+msgstr "Chargement des variations..."
+
+#: woocommerce-stock-manager.php:109
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: woocommerce-stock-manager.php:579
+msgid "Low Stock Indicator Color"
+msgstr "Couleur de l'indicateur de stock faible"
+
+#: woocommerce-stock-manager.php:500
+msgid "Low Stock Threshold"
+msgstr "Seuil de faible stock"
+
+#: woocommerce-stock-manager.php:484
+msgid "Main Settings"
+msgstr "Réglages principaux"
+
+#: woocommerce-stock-manager.php:829 woocommerce-stock-manager.php:1159
+msgid "Manage Stock"
+msgstr "Gérer les stocks"
+
+#: woocommerce-stock-manager.php:809 woocommerce-stock-manager.php:810
+msgid "Max Price"
+msgstr "Prix max."
+
+#: woocommerce-stock-manager.php:594
+msgid "Medium Stock Indicator Color"
+msgstr "Couleur de l'indicateur de stock moyen"
+
+#: woocommerce-stock-manager.php:515
+msgid "Medium Stock Threshold"
+msgstr "Seuil de stock moyen"
+
+#: woocommerce-stock-manager.php:805 woocommerce-stock-manager.php:806
+msgid "Min Price"
+msgstr "Prix min."
+
+#: woocommerce-stock-manager.php:108 woocommerce-stock-manager.php:1101
+msgid "No products found."
+msgstr "Aucun produit n'a été trouvé."
+
+#: woocommerce-stock-manager.php:530
+msgid "Notification Email"
+msgstr ""
+
+#: woocommerce-stock-manager.php:556 woocommerce-stock-manager.php:1004
+#: woocommerce-stock-manager.php:1200
+msgid "Out of Stock"
+msgstr "En rupture de stock"
+
+#: woocommerce-stock-manager.php:825 woocommerce-stock-manager.php:1155
+msgid "Price"
+msgstr "Prix"
+
+#: woocommerce-stock-manager.php:822
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: woocommerce-stock-manager.php:1134
+msgid "Product not found or not a variable product."
+msgstr "Produit introuvable ou produit non variable."
+
+#: woocommerce-stock-manager.php:1235
+msgid "Product not found."
+msgstr "Produit non trouvé."
+
+#: woocommerce-stock-manager.php:796
+msgid "Product Type"
+msgstr "Type de produit"
+
+#: woocommerce-stock-manager.php:104
+msgid "Product updated successfully."
+msgstr "Le produit a été mis à jour avec succès."
+
+#: woocommerce-stock-manager.php:826 woocommerce-stock-manager.php:1156
+msgid "Sale Price"
+msgstr "Prix de solde"
+
+#: woocommerce-stock-manager.php:813 woocommerce-stock-manager.php:814
+msgid "Search Products..."
+msgstr "Recherche de produits..."
+
+#: woocommerce-stock-manager.php:789
+msgid "Select Category"
+msgstr "Sélectionner une catégorie"
+
+#: woocommerce-stock-manager.php:798
+msgid "Select Product Type"
+msgstr "Sélectionner le type de produit"
+
+#: woocommerce-stock-manager.php:617
+msgid "Select the color for the high stock indicator."
+msgstr "Sélectionnez la couleur de l'indicateur de stock élevé."
+
+#: woocommerce-stock-manager.php:587
+msgid "Select the color for the low stock indicator."
+msgstr "Sélectionnez la couleur de l'indicateur de stock faible."
+
+#: woocommerce-stock-manager.php:602
+msgid "Select the color for the medium stock indicator."
+msgstr "Sélectionnez la couleur de l'indicateur de stock moyen."
+
+#: woocommerce-stock-manager.php:553
+msgid "Set the default stock status for new products."
+msgstr "Définir l'état des stocks par défaut pour les nouveaux produits."
+
+#: woocommerce-stock-manager.php:471
+msgid "Settings"
+msgstr "Paramètres"
+
+#: woocommerce-stock-manager.php:980
+msgid "Simple Product"
+msgstr "Produit simple"
+
+#: woocommerce-stock-manager.php:470 woocommerce-stock-manager.php:733
+msgid "Stock Editor Settings"
+msgstr "Paramètres de l'éditeur de stock"
+
+#: woocommerce-stock-manager.php:459 woocommerce-stock-manager.php:460
+msgid "Stock Management"
+msgstr "Gestion des stocks"
+
+#: woocommerce-stock-manager.php:827 woocommerce-stock-manager.php:1157
+msgid "Stock Quantity"
+msgstr "Quantité en stock"
+
+#: woocommerce-stock-manager.php:523
+msgid ""
+"Stock quantity above low threshold and below which the indicator turns "
+"orange."
+msgstr ""
+"Quantité de stock supérieure au seuil bas et en dessous duquel l'indicateur "
+"passe à l'orange."
+
+#: woocommerce-stock-manager.php:508
+msgid "Stock quantity below which the indicator turns red."
+msgstr "Quantité de stock en dessous de laquelle l'indicateur devient rouge."
+
+#: woocommerce-stock-manager.php:828 woocommerce-stock-manager.php:1158
+msgid "Stock Status"
+msgstr "État des stocks"
+
+#: woocommerce-stock-manager.php:823
+msgid "Type"
+msgstr ""
+
+#: woocommerce-stock-manager.php:928
+msgid "Variable Product"
+msgstr "Produit variable"
+
+#: woocommerce-stock-manager.php:1240
+msgid ""
+"Variable products cannot be updated directly. Please update variations "
+"individually."
+msgstr ""
+"Les produits variables ne peuvent pas être mis à jour directement. Veuillez "
+"mettre à jour les variations individuellement."
+
+#: woocommerce-stock-manager.php:1154
+msgid "Variation Name"
+msgstr "Nom de la variation"
+
+#: woocommerce-stock-manager.php:773
+msgid "WooCommerce Stock Editor"
+msgstr "Editeur de stock WooCommerce"
+
+#. Name of the plugin
+msgid "WooCommerce Stock Editor (Enhanced)"
+msgstr "WooCommerce Stock Editor (Amélioré)"
+
+#: woocommerce-stock-manager.php:1122 woocommerce-stock-manager.php:1222
+msgid "You do not have permission to perform this action."
+msgstr "Vous n'êtes pas autorisé à effectuer cette action."
+
+#: woocommerce-stock-manager.php:729 woocommerce-stock-manager.php:755
+#: woocommerce-stock-manager.php:1031
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Vous ne disposez pas des autorisations suffisantes pour accéder à cette page."
